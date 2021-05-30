@@ -68,7 +68,9 @@ C:\Users\hjohn\GIT\CompanyEmployees\bin\Debug\netcoreapp3.1\Entities.dll
 C:\Users\hjohn\GIT\CompanyEmployees\bin\Debug\netcoreapp3.1\Entities.pdb
 C:\Users\hjohn\GIT\CompanyEmployees\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\hjohn\GIT\CompanyEmployees\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\hjohn\GIT\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csproj.CoreCompileInputs.cache
-C:\Users\hjohn\GIT\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\hjohn\GIT\CompanyEmployees\bin\Debug\netcoreapp3.1\Repository.dll
 C:\Users\hjohn\GIT\CompanyEmployees\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\hjohn\GIT\CompanyEmployees\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\hjohn\GIT\CompanyEmployees\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\hjohn\GIT\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csproj.CoreCompileInputs.cache
+C:\Users\hjohn\GIT\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cache

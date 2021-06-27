@@ -37,7 +37,12 @@ namespace CompanyEmployees
             services.ConfigureLoggerService();
             services.ConfigureSqlContext(Configuration);
             services.ConfigureRepositoryManager();
-            services.AddControllers();
+            services.AddControllers(config =>
+            {
+                config.RespectBrowserAcceptHeader = true;
+                config.ReturnHttpNotAcceptable = true;
+            }).AddXmlDataContractSerializerFormatters()
+            .AddCustomCSVFormatter();
             services.AddAutoMapper(typeof(Startup));
         }
 

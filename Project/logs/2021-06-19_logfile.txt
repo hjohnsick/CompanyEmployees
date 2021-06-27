@@ -1,0 +1,2 @@
+2021-06-19 11:13:16.6216 INFO Company with id: 0ad5b971-ff51-414d-af01-34187e407557 doesn't exist in the database.
+2021-06-19 11:22:30.8322 INFO Company with id: 0ad5b971-ff51-414d-af01-34187e407557 doesn't exist in the database
